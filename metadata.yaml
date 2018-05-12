@@ -1,4 +1,8 @@
 _repo: The-Pennycomequicks-Volume-3-of-3_48163
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48163-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48163#The-Pennycomequicks-Volume-3-of-3
 gutenberg_issued: '2015-02-04'
 gutenberg_type: Text
 identifiers:
